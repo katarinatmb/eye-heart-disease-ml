@@ -6,8 +6,5 @@ The workflow for this project began with importing and structuring a dataset con
 
 To complement the CNN, I constructed a second approach using logistic regression. The images were flattened using grayscale histogram features, creating a structured numerical representation that allowed logistic regression to learn broader statistical relationships rather than visual ones. This helped benchmark how much value the CNN’s image-based feature extraction was adding beyond a simpler model. Comparing these results gave insight into model limitations, dataset needs, and future potential.
 
-This work highlights the potential for retinal imaging to assist in early cardiovascular screening. With more data, optimized architectures, and hyperparameter tuning, future iterations could better capture subtle retinal signs linked to heart disease. The project also demonstrates how deep learning and traditional statistical models can complement each other when exploring complex biomedical relationships. You can read a more polished write-up and walkthrough of the project using the link below.
-
-**🔗 Full Project Page:**  
-https://katarinatmb.github.io/eye-heart-disease-ml/
+This work highlights the potential for retinal imaging to assist in early cardiovascular screening. With more data, optimized architectures, and hyperparameter tuning, future iterations could better capture subtle retinal signs linked to heart disease. The project also demonstrates how deep learning and traditional statistical models can complement each other when exploring complex biomedical relationships. 
 
