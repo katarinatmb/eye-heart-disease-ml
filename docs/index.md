@@ -6,7 +6,5 @@ The first model is a Convolutional Neural Network (CNN), built to automatically 
 
 Although the dataset was limited in size, both models offered valuable insights into the visual signatures that may accompany cardiovascular conditions. With further dataset expansion, additional augmentation, or more advanced architectures, the predictive performance could likely improve. This project demonstrates a meaningful step toward using eye-based imaging as an accessible screening tool.
 
-To explore the full analysis, model development process, and code, visit the GitHub repository linked below.
 
-**🔗 GitHub Repository:**  
-https://github.com/katarinatmb/eye-heart-disease-ml
+
