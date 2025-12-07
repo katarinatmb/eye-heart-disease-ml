@@ -9,5 +9,5 @@ To complement the CNN, I constructed a second approach using logistic regression
 This work highlights the potential for retinal imaging to assist in early cardiovascular screening. With more data, optimized architectures, and hyperparameter tuning, future iterations could better capture subtle retinal signs linked to heart disease. The project also demonstrates how deep learning and traditional statistical models can complement each other when exploring complex biomedical relationships. You can read a more polished write-up and walkthrough of the project using the link below.
 
 **🔗 Full Project Page:**  
-https://<katarinatmb>.github.io/eye-heart-disease-ml/
+https://katarinatmb.github.io/eye-heart-disease-ml/
 
