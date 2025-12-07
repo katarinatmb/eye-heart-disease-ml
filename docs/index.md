@@ -9,4 +9,4 @@ Although the dataset was limited in size, both models offered valuable insights 
 To explore the full analysis, model development process, and code, visit the GitHub repository linked below.
 
 **🔗 GitHub Repository:**  
-https://github.com/<katarinatmb>/eye-heart-disease-ml
+https://github.com/katarinatmb/eye-heart-disease-ml
